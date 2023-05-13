@@ -94,26 +94,21 @@ endmodule
 
 ### RTL LOGIC  
 
-
-![Uploading RT1.png…]()
-
+![mux1](https://github.com/SivaChandranR07/Exercise-07-Multiplexer-and-De--multiplexer/assets/113497395/aeb5acaa-2261-4bda-9fc9-b561011c4a65)
 
 
-
+![demux1](https://github.com/SivaChandranR07/Exercise-07-Multiplexer-and-De--multiplexer/assets/113497395/30a9f19f-9b8e-4c5f-8ca9-f59d279bcf0a)
 
 
 
 ### TIMING DIGRAMS  
 
+![mux2](https://github.com/SivaChandranR07/Exercise-07-Multiplexer-and-De--multiplexer/assets/113497395/9bb4116a-2fff-4894-a14d-5ce585ae924d)
 
 
-
-
-### TRUTH TABLE 
-
-
-
+![demux2](https://github.com/SivaChandranR07/Exercise-07-Multiplexer-and-De--multiplexer/assets/113497395/2aa6d198-3042-4d94-8faf-4a452a483455)
 
 
 
 ### RESULTS 
+Thus the program to design multiplexer and de-multiplexer is successfully completed.
